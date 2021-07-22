@@ -1,6 +1,7 @@
 # Project-2-NLP
 
-# project2 CryptoKnight
+# CryptoKnight
+
 Analysing Twitter sentiment to obtain trading signals
 
 Presented by: Shan Shan Zhang, Alisha Geary, James Sheridan & Kai Ooi
