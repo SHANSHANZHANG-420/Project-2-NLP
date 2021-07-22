@@ -4,7 +4,7 @@
 
 Analysing Twitter sentiment to obtain trading signals
 
-Presented by: Shan Shan Zhang, Alisha Geary, James Sheridan & Kai Ooi
+Presented by: Shanshan Zhang, Alisha Geary, James Sheridan & Kai Ooi
 
 # Motivation
 The year is 2021.  
